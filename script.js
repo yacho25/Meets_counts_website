@@ -1,6 +1,6 @@
 // Replace these with your actual app store links
-const APP_STORE_URL = 'https://apps.apple.com/app/YOUR_APP_ID';
-const PLAY_STORE_URL = 'https://play.google.com/store/apps/details?id=com.yourpackage.meetcounts';
+const APP_STORE_URL = 'https://apps.apple.com/app/id6759267054';
+const PLAY_STORE_URL = 'https://play.google.com/store/apps/details?id=yar.tme.meetcounts';
 
 // Update the store links when the page loads
 document.addEventListener('DOMContentLoaded', function() {
